@@ -1,0 +1,19 @@
+{
+  "name": "anti-slop-ui-design",
+  "description": "Design interfaces that do not look like AI wrote them. Architect digital interfaces that override default LLM design biases with metric-based spacing, real type scales, and layout decisions an agent would otherwise guess at.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Design interfaces that do not look like AI wrote them. Architect digital interfaces that override default LLM design biases with metric-based spacing, real type scales, and layout decisions an agent would otherwise guess at.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "anti-slop-ui-design",
+      "source": "./plugins/anti-slop-ui-design",
+      "description": "Design interfaces that do not look like AI wrote them. Architect digital interfaces that override default LLM design biases with metric-based spacing, real type scales, and layout decisions an agent would otherwise guess at."
+    }
+  ]
+}
